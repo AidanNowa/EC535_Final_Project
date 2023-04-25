@@ -35,10 +35,6 @@ void MyButton::changeflipstatus(){
 void MyButton::setfliptrue(){
     this->flip = true;
 }
-void MyButton::setflagfalse(){
-    this->setFlag = false;
-}
-
 
 void MyButton::setflipfalse(){
     this->flip = false;
