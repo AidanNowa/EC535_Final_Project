@@ -19,6 +19,7 @@ public:
     bool getflipstatus();
     void setfliptrue();
     void setflipfalse();
+    void setflagfalse();
 protected:
     virtual void mousePressEvent(QMouseEvent *e) override;
 
